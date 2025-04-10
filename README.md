@@ -22,7 +22,7 @@ Chess est une implémentation personnalisée du jeu d'échecs, avec des fonction
 
 Voici la structure du projet :
 
-```
+
 Chess/
 ├── src/
 │   ├── AiBoard.cpp
@@ -53,7 +53,7 @@ Chess/
 │   │   └── fonts/
 ├── captures/
 └── README.md
-```
+
 ```
 
 ## Prérequis
